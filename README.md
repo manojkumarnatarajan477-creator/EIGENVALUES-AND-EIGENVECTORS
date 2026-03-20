@@ -18,7 +18,7 @@ values,vectors = np.linalg.eig(A)
 print(f"Eigen values are {values} and Eigen Vectors are {vectors}")
 ```
 ## Output:
-<img width="1322" height="655" alt="mathematicsforai-ex-4" src="https://github.com/user-attachments/assets/185f1ee3-4bef-453e-9d0d-b4afa6e7f4fe" />
+![alt text](mathematicsforai-ex-4.png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
